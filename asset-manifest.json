@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://haseyama1290.github.io/csb-1ucmn7/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://haseyama1290.github.io/csb-1ucmn7/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://haseyama1290.github.io/csb-1ucmn7/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://haseyama1290.github.io/csb-1ucmn7/static/js/runtime-main.676928bf.js",
+    "runtime-main.js.map": "https://haseyama1290.github.io/csb-1ucmn7/static/js/runtime-main.676928bf.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://haseyama1290.github.io/csb-1ucmn7/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://haseyama1290.github.io/csb-1ucmn7/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://haseyama1290.github.io/csb-1ucmn7/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://haseyama1290.github.io/csb-1ucmn7/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://haseyama1290.github.io/csb-1ucmn7/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.676928bf.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
